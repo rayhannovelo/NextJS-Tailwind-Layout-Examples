@@ -36,7 +36,7 @@ export default function Page() {
         </p>
       </div>
 
-      <hr className="block my-5"></hr>
+      <hr className="my-5"></hr>
 
       <h3 className="ml-1">display: block, width: 500px</h3>
       <div className="content block bg-blue-400 m-1 p-3">

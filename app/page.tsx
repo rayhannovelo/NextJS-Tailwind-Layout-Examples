@@ -18,7 +18,7 @@ export default function Home() {
           </li>
           <li>
             <Link href="/flex" className="hover:underline">
-              Flex
+              Flexbox (flex-direction, flex-wrap, order)
             </Link>
           </li>
           <li>

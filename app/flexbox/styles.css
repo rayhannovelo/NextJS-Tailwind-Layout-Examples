@@ -1,0 +1,10 @@
+body {
+  margin: 10px;
+}
+
+#flex {
+  .content {
+    width: 250px;
+    height: auto;
+  }
+}
