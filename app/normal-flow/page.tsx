@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <a href="/" className="underline mb-3 block">
-        Back To Menu
+        Back To Home
       </a>
       <h1>Normal Flow</h1>
       <p>
