@@ -14,3 +14,46 @@
 
 @tailwind components;
 @tailwind utilities;
+
+#normal-flow {
+  margin: 10px;
+
+  p {
+    background-color: aqua;
+    border: 1px solid blue;
+    padding: 10px;
+  }
+}
+
+#display {
+  margin: 10px;
+
+  .content {
+    width: 500px;
+    height: auto;
+    margin: 0.25rem;
+    padding: 0.75rem;
+  }
+}
+
+#flex-direction-wrap-order {
+  margin: 10px;
+
+  .content {
+    width: 250px;
+    height: auto;
+    margin: 0.25rem;
+    padding: 0.75rem;
+  }
+}
+
+#flex-grow-shrink {
+  margin: 10px;
+
+  .content {
+    background-color: aqua;
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 5px;
+  }
+}
