@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="min-h-screen bg-cyan-400 flex flex-col justify-center items-center">
-      <h1 className="text-center py-3">Tutorial Tailwind Layout</h1>
+      <h1 className="text-center py-3">NextJS Tailwind Training</h1>
       <ol className="list-decimal">
         <li>
           <Link href="/normal-flow" className="hover:underline">
