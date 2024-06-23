@@ -57,3 +57,15 @@
     padding: 5px;
   }
 }
+
+#flex-alignment {
+  margin: 10px;
+
+  .content {
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    min-height: 300px;
+  }
+}
