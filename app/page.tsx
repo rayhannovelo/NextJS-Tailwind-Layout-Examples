@@ -23,7 +23,7 @@ export default function Home() {
           </li>
           <li>
             <Link href="/flex-grow-shrink" className="hover:underline">
-              flex-grow, flex-shrink
+              flex-grow, flex-shrink, flex-basis
             </Link>
           </li>
           <li>
