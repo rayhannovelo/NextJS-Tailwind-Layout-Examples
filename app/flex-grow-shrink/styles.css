@@ -1,0 +1,24 @@
+body {
+  margin: 10px;
+}
+
+#flex-grow-shrink {
+  .container-new {
+    display: flex;
+  }
+
+  .content {
+    background-color: aqua;
+    border: 1px solid blue;
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .content1 {
+    flex-shrink: 1;
+  }
+
+  .content2 {
+    flex-shrink: 2;
+  }
+}

@@ -3,7 +3,7 @@ import "./styles.css";
 
 export default function Page() {
   return (
-    <div id="flex">
+    <div id="flex-direction-wrap-order">
       <Link href="/" className="underline mb-3 block">
         Back To Home
       </Link>

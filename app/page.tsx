@@ -13,12 +13,17 @@ export default function Home() {
           </li>
           <li>
             <Link href="/display" className="hover:underline">
-              Display
+              display inline block
             </Link>
           </li>
           <li>
-            <Link href="/flex" className="hover:underline">
-              Flexbox (flex-direction, flex-wrap, order)
+            <Link href="/flex-direction-wrap-order" className="hover:underline">
+              flex-direction, flex-wrap, order
+            </Link>
+          </li>
+          <li>
+            <Link href="/flex-grow-shrink" className="hover:underline">
+              flex-grow, flex-shrink
             </Link>
           </li>
           <li>
