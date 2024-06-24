@@ -27,7 +27,7 @@ export default function Home() {
         </li>
         <li>
           <Link href="/flex-alignment" className="hover:underline">
-            flex: justify-content, justify-items, align-contents, gap
+            flex: justify-content, align-items, align-content, gap
           </Link>
         </li>
         <li>
