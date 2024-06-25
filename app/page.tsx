@@ -35,6 +35,11 @@ export default function Home() {
             Grid
           </Link>
         </li>
+        <li>
+          <Link href="/grid-alignment" className="hover:underline">
+            Grid Alignment
+          </Link>
+        </li>
       </ol>
     </div>
   );

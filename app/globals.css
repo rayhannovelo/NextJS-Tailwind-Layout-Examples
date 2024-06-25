@@ -77,3 +77,13 @@
     min-height: 100px;
   }
 }
+
+#grid-alignment {
+  margin: 10px;
+
+  .content {
+    background-color: moccasin;
+    border: 1px solid black;
+    text-align: center;
+  }
+}
