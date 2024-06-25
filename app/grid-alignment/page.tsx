@@ -10,9 +10,9 @@ export default function Page() {
       <h3>
         display: grid, grid-cols-[100px_100px_100px],
         grid-rows-[100px_100px_100px], justify-evenly, content-evenly,
-        items-start
+        items-stretch
       </h3>
-      <div className="grid grid-cols-[100px_100px_100px] grid-rows-[100px_100px_100px] bg-emerald-400 h-[500px] justify-evenly content-evenly items-start">
+      <div className="grid grid-cols-[100px_100px_100px] grid-rows-[100px_100px_100px] bg-emerald-400 h-[500px] justify-evenly content-evenly items-stretch">
         <div className="content">1</div>
         <div className="content">2</div>
         <div className="content">3</div>
