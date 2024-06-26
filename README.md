@@ -1,8 +1,8 @@
-# Project Name: NextJS Tailwind Training
+# Project Name: Next.js Tailwind Training
 
 ## Description:
 
-This project is an example of layout using Tailwind and the Next.js framework.
+This project is an example of layout training with tailwind and Next.js framework
 
 ## Examples:
 
