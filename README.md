@@ -7,10 +7,10 @@ This project is an example of layout training with tailwind and Next.js framewor
 ## Examples:
 
 1. Normal Flow
-2. display: block, inline-block
-3. flex: flex-direction, flex-wrap, order
-4. flex: flex-grow, flex-shrink, flex-basis
-5. flex: justify-content, align-items, align-content, gap
+2. Display: inline-block, block
+3. Flexbox: flex-direction, flex-wrap, order
+4. Flexbox: flex-grow, flex-shrink, flex-basis
+5. Flexbox: justify-content, align-items, align-content, gap
 6. Grid Template
 7. Grid Alignment
 

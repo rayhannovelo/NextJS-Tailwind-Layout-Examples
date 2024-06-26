@@ -12,27 +12,27 @@ export default function Home() {
         </li>
         <li>
           <Link href="/display" className="hover:underline">
-            display inline block
+            Display: inline-block, block
           </Link>
         </li>
         <li>
           <Link href="/flex-direction-wrap-order" className="hover:underline">
-            flex-direction, flex-wrap, order
+            Flexbox: flex-direction, flex-wrap, order
           </Link>
         </li>
         <li>
           <Link href="/flex-grow-shrink" className="hover:underline">
-            flex-grow, flex-shrink, flex-basis
+            Flexbox: flex-grow, flex-shrink, flex-basis
           </Link>
         </li>
         <li>
           <Link href="/flex-alignment" className="hover:underline">
-            flex: justify-content, align-items, align-content, gap
+            Flexbox: justify-content, align-items, align-content, gap
           </Link>
         </li>
         <li>
           <Link href="/grid" className="hover:underline">
-            Grid
+            Grid Template
           </Link>
         </li>
         <li>
